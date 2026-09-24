@@ -1,0 +1,36 @@
+{
+  "ideia_id": "IDEIA-02",
+  "titulo": "Revenda Relâmpago de \"Achadinhos\" da Shopee (Sem Estoque)",
+  "ativo": "ativo digital simples (PDF/serviço/planilha — ver doc)",
+  "faixa_preco": "R$ 10-97",
+  "qc": {
+    "aprovado_qc": false,
+    "itens": [
+      {
+        "ok": true,
+        "item": "declara público-alvo"
+      },
+      {
+        "ok": true,
+        "item": "declara preço"
+      },
+      {
+        "ok": true,
+        "item": "conteúdo mínimo (len=1392 ≥ 1200)"
+      },
+      {
+        "ok": true,
+        "item": "sanidade"
+      },
+      {
+        "ok": true,
+        "item": "disclosure de afiliado presente"
+      },
+      {
+        "ok": false,
+        "item": "6 campo(s) de evidência humana pendente(s) → BLOQUEIA publicação (gate)"
+      }
+    ],
+    "campos_preencher": 6
+  }
+}

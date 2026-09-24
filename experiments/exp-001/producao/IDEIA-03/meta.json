@@ -1,0 +1,32 @@
+{
+  "ideia_id": "IDEIA-03",
+  "titulo": "Venda de Planilha Pronta para Resolver Preguiça",
+  "ativo": "ativo digital simples (PDF/serviço/planilha — ver doc)",
+  "faixa_preco": "R$ 10-97",
+  "qc": {
+    "aprovado_qc": true,
+    "itens": [
+      {
+        "ok": true,
+        "item": "declara público-alvo"
+      },
+      {
+        "ok": true,
+        "item": "declara preço"
+      },
+      {
+        "ok": true,
+        "item": "conteúdo mínimo (len=1561 ≥ 1200)"
+      },
+      {
+        "ok": true,
+        "item": "sanidade"
+      },
+      {
+        "ok": true,
+        "item": "sem pendências de evidência"
+      }
+    ],
+    "campos_preencher": 0
+  }
+}

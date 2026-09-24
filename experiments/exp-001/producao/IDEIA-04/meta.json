@@ -1,0 +1,32 @@
+{
+  "ideia_id": "IDEIA-04",
+  "titulo": "\"O Corretor de Bio\" (Abordagem Direta)",
+  "ativo": "ativo digital simples (PDF/serviço/planilha — ver doc)",
+  "faixa_preco": "R$ 10-97",
+  "qc": {
+    "aprovado_qc": false,
+    "itens": [
+      {
+        "ok": true,
+        "item": "declara público-alvo"
+      },
+      {
+        "ok": true,
+        "item": "declara preço"
+      },
+      {
+        "ok": true,
+        "item": "conteúdo mínimo (len=1668 ≥ 1200)"
+      },
+      {
+        "ok": true,
+        "item": "sanidade"
+      },
+      {
+        "ok": false,
+        "item": "1 campo(s) de evidência humana pendente(s) → BLOQUEIA publicação (gate)"
+      }
+    ],
+    "campos_preencher": 1
+  }
+}
